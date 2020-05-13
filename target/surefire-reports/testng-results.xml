@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="QaClickacadamy.SeleniumTest" duration-ms="10033" started-at="2019-01-27T02:33:39 IST" finished-at="2019-01-27T02:33:49 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="10033" started-at="2019-01-27T02:33:39 IST" finished-at="2019-01-27T02:33:49 IST">
+      <class name="QaClickacadamy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserSelenium()[pri:0, instance:QaClickacadamy.SeleniumTest@3ffc5af1]" name="BrowserSelenium" duration-ms="9969" started-at="2019-01-27T02:33:39 IST" finished-at="2019-01-27T02:33:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSelenium -->
+        <test-method status="PASS" signature="ElementSelenium()[pri:0, instance:QaClickacadamy.SeleniumTest@3ffc5af1]" name="ElementSelenium" duration-ms="0" started-at="2019-01-27T02:33:49 IST" finished-at="2019-01-27T02:33:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementSelenium -->
+      </class> <!-- QaClickacadamy.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- QaClickacadamy.SeleniumTest -->
+</testng-results>
